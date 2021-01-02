@@ -1,4 +1,4 @@
-# DOM封装(源码：https://github.com/Bryant-Wang24/DOM-Library/blob/master/src/dom.js)
+# DOM封装
 ## 增
 
 ```
